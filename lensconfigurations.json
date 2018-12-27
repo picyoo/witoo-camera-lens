@@ -1,18 +1,50 @@
 [
-  {
-    "_Comments" : "Sigma 18-35 mm f/1,8 DC HSM",
-    "LensModel": "18-35mm",
-    "LensType": "Canon EF 85mm f/1.2L or Sigma or Tamron Lens",
-    "FocalLength": "18 mm",
-    "Depth": 5,
-    "Angle": 1
-  },
-  {
-    "_Comments" : "Sigma 18-35 mm f/1,8 DC HSM",
-    "LensModel": "18-35mm",
-    "LensType": "Canon EF 85mm f/1.2L or Sigma or Tamron Lens",
-    "FocalLength": "20 mm",
-    "Depth": 4,
-    "Angle": 0
-  }
+    {
+        "_Comments": "Sigma 18-35 mm f/1,8 DC HSM",
+        "LensModel": "18-35mm",
+        "LensType": "Canon EF 85mm f/1.2L or Sigma or Tamron Lens",
+        "FocalLength": "18 mm",
+        "Depth": 5,
+        "Angle": 1
+    },
+    {
+        "_Comments": "Sigma 18-35 mm f/1,8 DC HSM",
+        "LensModel": "18-35mm",
+        "LensType": "Canon EF 85mm f/1.2L or Sigma or Tamron Lens",
+        "FocalLength": "20 mm",
+        "Depth": 4,
+        "Angle": 0
+    },
+    {
+        "_Comments": "Canon EF-S10-18mm f/4.5-5.6 IS STM",
+        "LensModel": "EF-S10-18mm f/4.5-5.6 IS STM",
+        "LensType": "",
+        "FocalLength": "10 mm",
+        "Depth": 7,
+        "Angle": 1
+    },
+    {
+        "_Comments": "Canon EF-S10-18mm f/4.5-5.6 IS STM",
+        "LensModel": "EF-S10-18mm f/4.5-5.6 IS STM",
+        "LensType": "",
+        "FocalLength": "11 mm",
+        "Depth": 5,
+        "Angle": 1
+    },
+    {
+        "_Comments": "Canon EF-S10-18mm f/4.5-5.6 IS STM",
+        "LensModel": "EF-S10-18mm f/4.5-5.6 IS STM",
+        "LensType": "",
+        "FocalLength": "12 mm",
+        "Depth": 5,
+        "Angle": 1
+    },
+    {
+        "_Comments": "Canon EF-S10-18mm f/4.5-5.6 IS STM",
+        "LensModel": "EF-S10-18mm f/4.5-5.6 IS STM",
+        "LensType": "",
+        "FocalLength": "13 mm",
+        "Depth": 2,
+        "Angle": 0
+    }
 ]
