@@ -46,5 +46,13 @@
         "FocalLength": "13 mm",
         "Depth": 2,
         "Angle": 0
+    },
+    {
+        "_Comments": "Samsung Gear 360 2017 - One Lens",
+        "LensModel": "Gear 360 2017",
+        "LensType": "SM-R210",
+        "FocalLength": "1,2 mm,
+        "Depth": 34,
+        "Angle": 18
     }
 ]
